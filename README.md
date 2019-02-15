@@ -1,2 +1,2 @@
-# -marketingdigitall.github.oi
+# marketingdigitall.github.oi
 Venda de serviços sociais
