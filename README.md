@@ -1,2 +1,2 @@
-# https://marketingdigitall.github.io/pedido.html
-Site para vendas de serviços para rede social INSTAGRAM. Em breve teremos também para outras redes socias.
+# https://marketingdigitall.github.io/pedido
+Site para vendas de serviços para rede sociais!
